@@ -1,0 +1,5 @@
+data/estoque.dat
+data/estoque.dat.tmp
+*.exe
+gamestock
+teste_estoque
